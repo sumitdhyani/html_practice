@@ -1,8 +1,4 @@
-* {
-    text-align: center;
-}
-
-div logo img{
+div logo *{
     text-align: left;
     width: 8%;
 }
